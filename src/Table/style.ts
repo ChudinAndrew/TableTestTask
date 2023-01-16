@@ -8,6 +8,7 @@ export const HeaderWrapper = styled.div`
   /* justify-content:space-around; */
   .lbl {
     margin: 5px 18px;
+    font-weight:bold;
   }
 `;
 
@@ -22,6 +23,7 @@ export const InputWrapper = styled.div`
     width: 100px;
     text-align: center;
     border: 1px solid #555555;
+    font-size:24px;
   }
 `;
 export const ContentWrapper = styled.div`
