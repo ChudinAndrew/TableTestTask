@@ -25,6 +25,7 @@ export interface ITableRow {
   setError: Dispatch<
     SetStateAction<IError[]>
   >;
+  validate:RegExp;
 }
 
 export interface ITable {

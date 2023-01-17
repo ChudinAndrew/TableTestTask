@@ -1,6 +1,6 @@
 import "./App.css";
 import { dataCell, header } from "./Table/store";
-import InpTable from "./Table/Table";
+import InpTable from "./Table/InpTable";
 
 function App() {
   return (
