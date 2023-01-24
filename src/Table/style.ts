@@ -55,7 +55,7 @@ export const ButtonWrapper = styled.div`
   justify-content: center;
 `;
 export const TableWrapper = styled.div`
-  margin-top: 25%;
+  margin-top: 20%;
   .btn {
     margin: 10px;
     background-color: #555555;

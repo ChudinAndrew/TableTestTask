@@ -42,30 +42,35 @@ export let dataCell: any = [
     column2: "$0.2",
     column3: "$0.4",
     column4: "$0.4",
+    rowName: '1'
   },
   {
     column1: "$0.4",
     column2: "$0.4",
     column3: "$0.42",
     column4: "$0.3",
+    rowName: '2'
   },
   {
     column1: "$0.4",
     column2: "$0.4",
     column3: "$0.4",
     column4: "$0.4",
+    rowName: '3'
   },
   {
     column1: "$0.4",
     column2: "$0.4",
     column3: "$0.4",
     column4: "$0.4",
+    rowName: '4'
   },
   {
     column1: "$0.4",
     column2: "$0.4",
     column3: "$0.4",
     column4: "$0.4",
+    rowName: '5'
   },
 ];
 export const header = [
